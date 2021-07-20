@@ -12,3 +12,5 @@ Time for backward rewriting: 0.00sec    // time take for algebraic backward rewr
 Overall run Time: 0.01sec    // overall time = time taken for circuit initialization + time taken for backward rewriting.
 
 
+For queries and suggestions
+please send a mail on: jitendrach94@gmail.com
